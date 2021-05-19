@@ -26,3 +26,14 @@
 .bg-muted {
   background-color: #869AB8 !important;
 }
+
+
+.mt-md-3 {
+  margin-top: 0.75rem !important;
+}
+// RESPONSIVE
+@media (max-width: 769px) {
+  .mt-m-3 {
+    margin-top: 0.75rem !important;
+  }
+}
