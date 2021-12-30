@@ -15,6 +15,7 @@ const paths = {
     js: './src/js',
     scss: './src/scss',
     video: './src/video',
+    files: './src/files',
   },
   dist: {
     css: './assets/css',
@@ -23,6 +24,7 @@ const paths = {
     img: './assets/img',
     js: './assets/js',
     video: './assets/video',
+    files: './src/files',
   },
 };
 
